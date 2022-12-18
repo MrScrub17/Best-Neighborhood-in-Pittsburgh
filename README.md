@@ -5,7 +5,7 @@ Big Green Men (Group 19)
 
 Members & Emails:
 1. Evan Mowry - EMM297@pitt.edu
-2. Aaron Importico - 
+2. Aaron Importico - ati6@pitt.edu
 
 
 Datasets:
@@ -19,3 +19,6 @@ Datasets:
 
 Overview:
 This project explores our view of the best neighborhood in Pittsburgh in terms of how green and clean each neighborhood is, specifically in regards to how each neighborhood handles their trash and what they have in terms of green spaces.
+
+Note from MrScrub17 (Evan):
+All files were pushed to the this repository through my account, MrScrub17. Due to an unforeseen and unavoidable error during the pushing process, my partner was unable to push his notebook directly to the repository. As an alternative, he sent his files to me through Discord, which I then translated into Github via my own workspace in JupyterHub. He has done has fair share of work.
